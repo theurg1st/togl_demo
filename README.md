@@ -6,7 +6,7 @@ Shows a rotating GLB model, a skybox, MSAA rendering and a simple ImGui console.
 
 
 ## Demo
-[demo](https://github.com/user-attachments/assets/86da620a-e173-4bba-8d67-5e54edaef4cb)
+[[demo](https://github.com/user-attachments/assets/86da620a-e173-4bba-8d67-5e54edaef4cb)](https://github-production-user-asset-6210df.s3.amazonaws.com/236650562/520363374-86da620a-e173-4bba-8d67-5e54edaef4cb.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251129T090533Z&X-Amz-Expires=300&X-Amz-Signature=52e027402748c45efdebf9c3fbc74e02e298050c144eda7579d979a86977d1d7&X-Amz-SignedHeaders=host)
 
 
 ## Features
